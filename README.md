@@ -1,7 +1,3 @@
-Sure, here's a markdown template for your GitHub README file:
-
----
-
 # Learn React from Scratch
 
 Hello, I'm Fajar Satria! Welcome to this comprehensive guide on learning React from the very basics. This guide includes an introduction to JavaScript ES6, TypeScript basics, Yarn, and Vite as well.
